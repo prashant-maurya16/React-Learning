@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "03counterlimit",
+=======
+  "name": "02counter",
+>>>>>>> 3c118fba24c6e69078c1aa3ec48b970f9f2e8105
   "private": true,
   "version": "0.0.0",
   "type": "module",
